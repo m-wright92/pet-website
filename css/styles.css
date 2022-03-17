@@ -1,3 +1,40 @@
 .title {
   text-align:center;
 }
+
+.title2 {
+  text-align:center;
+  border-width: 2px;
+}
+
+h5 {
+  text-align:center;
+}
+
+.catagory {
+  margin:auto;
+  display:block;
+  text-align:
+  width:fit-content;
+  box-sizing:border-box;
+}
+
+.catagory ul {
+  display: inline-block;
+  text-align:left;
+}
+
+.dogs {
+  float:left;
+  width:50%;
+  border: 0px;
+  margin-bottom: 50px;
+  
+}
+
+.cats {
+  float:right;
+  width: 50%;
+  border: 0px;
+  margin-bottom: 50px;
+}
