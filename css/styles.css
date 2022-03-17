@@ -23,18 +23,3 @@ h5 {
   display: inline-block;
   text-align:left;
 }
-
-.dogs {
-  float:left;
-  width:50%;
-  border: 0px;
-  margin-bottom: 50px;
-  
-}
-
-.cats {
-  float:right;
-  width: 50%;
-  border: 0px;
-  margin-bottom: 50px;
-}
